@@ -30,4 +30,4 @@ You will be provided with a design mockup as a PDF-file and must replicate that 
 ### License
 
 The project is licensed under the [MIT license](license.txt).
-# Portfolio-Site-Project
+
