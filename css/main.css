@@ -11,7 +11,7 @@ body {
 }
 
 hr {
-    border: 2px solid #7d97ad;
+    border: 2px solid #bdbdbd;
 }
 
 img {
@@ -19,7 +19,7 @@ img {
 }
 
 .text-muted {
-	color: #bcbbbb;
+	color: #CB6047;
 }
 
 .text-thin {
@@ -28,9 +28,16 @@ img {
 
 .title-logo {
 	margin-top: 30px;
+	height: 100px;
+	width: 100px;
+}
+
+.title-role {
+	color: #616161;
 }
 
 .title-super {
 	font-size: 60px;
+	color: #CB6047;
 }
 
