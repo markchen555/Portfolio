@@ -127,6 +127,27 @@ img {
 	}
 }
 
+@media (max-width: 414px) {
+	.sliderWrapper {
+		width: 372px;
+		height: 167px;
+	}
+}
+
+@media (max-width: 375px) {
+	.sliderWrapper {
+		width: 335px;
+		height: 150px;
+	}
+}
+
+@media (max-width: 320px) {
+	.sliderWrapper {
+		width: 280px;
+		height: 125px;
+	}
+}
+
 
 .sliderWrapper .slider
 {
