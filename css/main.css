@@ -400,11 +400,11 @@ footer p {
 }
 
 footer a {
-	color: #f68323;
+	color: rgba(255, 255, 255, 0.6);
 }
 
 footer a:hover { 
-	color: #f68323;
+	color: rgba(255, 255, 255, 0.6);
 }
 
 footer .footer-title {
