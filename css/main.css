@@ -504,6 +504,7 @@ footer .social-icon li a {
 	-ms-transform: rotate(45deg);
 	transform: rotate(45deg); */
 	border-radius: 30%;
+	color: #f68323;
 }
 footer .social-icon li a:hover {
 	border-color: #f68323;
