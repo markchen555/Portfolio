@@ -273,7 +273,8 @@ img {
 .grid li {
 	display: inline-block;
 	/*width: 360px;*/
-	width: 440px;
+	/*width: 440px;*/
+	width: 48%;
 	margin: 0;
 	padding: 20px;
 	text-align: left;
