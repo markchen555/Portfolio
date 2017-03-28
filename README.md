@@ -16,7 +16,7 @@ Fork a copy from my github or download the repository on your computer, unzip it
 
 ### Portfolio Site V2.0 Info
 
-The version 2.0 site using the similar bootstrap layout with center of the body replaced with JavaScript photo slide show, static project section replaced with JavaScript anamited project brick, capabilities sectoin, footer and animated the whole site with implementaton of `nimated.css` and `WOW.js`. My personal resume is also attached in the website.  
+The version 2.0 site using the similar bootstrap layout with center of the body replaced with JavaScript photo slide show, static project section replaced with JavaScript anamited project brick, capabilities sectoin, footer and animated the whole site with implementaton of `animated.css` and `WOW.js`. My personal resume is also attached in the website.  
 
 ---
 
