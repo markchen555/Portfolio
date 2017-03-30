@@ -8,7 +8,7 @@ developed and personalized a responsive website with HTML5 and CSS3, from a prov
 
 ### To run the application
 
-[Project Repo](https://markchen555.github.io/Portfolio/)
+[Project Repo](https://github.com/markchen555/Portfolio)
 
 Fork a copy from my github or download the repository on your computer, unzip it and open `index.html` in your browser to see the working tests.
 
@@ -26,6 +26,7 @@ The version 2.0 site using the similar bootstrap layout with center of the body 
 - [Bootstrap](http://getbootstrap.com/)
 - [Animate.css](https://daneden.github.io/animate.css/)
 - [WOW.js](http://mynameismatthieu.com/WOW/)
+- [Font Awesome](http://fontawesome.io/)
 
 ---
 
