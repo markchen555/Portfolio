@@ -1,4 +1,4 @@
-## Portfolio Site Project V2.0
+## Portfolio Site Project V2.1
 
 First project from the Front-End Web Developer Nanodegree in <a href="https://www.udacity.com" target="_blank">Udacity</a>:
 <br>
@@ -33,4 +33,3 @@ The version 2.0 site using the similar bootstrap layout with center of the body 
 ### License
 
 The project is licensed under the [MIT license](license.txt).
-
